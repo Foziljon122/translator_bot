@@ -61,3 +61,6 @@ def translate_text(message, to_language):
 
 
 bot.polling()
+
+
+# salom bu yangi bot versiyasi!
